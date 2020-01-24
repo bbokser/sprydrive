@@ -4,3 +4,5 @@ SpryDrive is an affordable actuator based on the quasi-direct drive (QDD) scheme
 Output Backlash: ~0.13 degree  
 Gear Ratio: 7:1  
 Motor: Herlea X8318S or Turnigy 9235
+
+The 8318 motor and 9235 motor are nearly identical, but the 8318 is 3 mm longer. Thus why there are two versions of the model. Keep this in mind when ordering parts.
