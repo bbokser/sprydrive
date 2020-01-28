@@ -5,4 +5,4 @@ Output Backlash: ~0.13 degree
 Gear Ratio: 7:1  
 Motor: Herlea X8318S or Turnigy 9235
 
-The 8318 motor and 9235 motor are nearly identical, but the 8318 is 3 mm longer, so there are two versions of the design. Keep this in mind when ordering parts.
+The 8318 motor and 9235 motor are nearly identical, but the 8318 is 2.5 mm longer, so there are two versions of the design. Keep this in mind when ordering parts.
