@@ -34,7 +34,7 @@ The 8318 motor and 9235 motor are nearly identical, but the 8318 is 2.5 mm longe
 
 5. The M4x18 dowel pins will replace the ones you just removed. You will need to sand the diameter down to achieve a proper press fit with the carrier plate. Mark off a 10 mm section of one end for sanding.
 
-6. Insert the other end into an electric drill and hold a 400 grit sandpaper sheet around the 10 mm section while spinning the dowel pin at high speed. Measure the diameter with a micrometer every 30 seconds or so. The pin will start out at about 4.003 mm (.1576 in), and you want it to measure about 3.978 mm (.1566 in). This can take a few minutes. You wouldn't think taking off one ten thou would matter, but it means the difference betweeen a broken carrier plate and an easy press fit. I learned this the hard way!
+6. Insert the other end into an electric drill and hold a 400 grit sandpaper sheet around the 10 mm section while spinning the dowel pin at high speed. Measure the diameter with a micrometer every 30 seconds or so. The pin will start out at about 4.003 mm (.1576 in), and you want it to measure about 3.978 mm (.1566 in). This can take a few minutes. You wouldn't think taking off one thou would matter, but it means the difference betweeen a broken carrier plate and an easy press fit. I learned this the hard way!
 
 7. Use an arbor press to insert the dowel pin into the VersaPlanetary carrier plate. The dowel pin should extend out 8 mm on one side and 5.3 mm on the other.
 
@@ -42,7 +42,7 @@ The 8318 motor and 9235 motor are nearly identical, but the 8318 is 2.5 mm longe
 
 9. Tap the 3.5 mm holes in the laser cut Output Mounting Plate with an M4 tap.
 
-10. Using an end mill, face the ring gear down by roughly 3.2±0.5 mm. Be sure to fixture this carefully, you don't want to deform it. The purpose of this operation is just to reduce the length of the actuator. If you want to skip this step, you can simply increase the length of the 3D-printed frame by 3.2 mm, but the sun gear will have less contact area with the planets.
+10. Using an end mill, face the ring gear down by roughly 3.2Â±0.5 mm. Be sure to fixture this carefully, you don't want to deform it. The purpose of this operation is just to reduce the length of the actuator. If you want to skip this step, you can simply increase the length of the 3D-printed frame by 3.2 mm, but the sun gear will have less contact area with the planets.
 
 11. 3D-print the Frame, Output Plate, Back Plate, Bearing Cover, Magnet Holder, and Encoder Mount. I used PLA, but you can use nylon, ABS, PETG, etc. Use 50% infill and at *least* 4 perimeters.
 
